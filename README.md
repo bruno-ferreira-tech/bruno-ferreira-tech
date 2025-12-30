@@ -26,13 +26,6 @@ Meu processo de desenvolvimento é guiado por padrões que garantem a sustentabi
 - **Desenvolvimento Full Stack:** Construção de interfaces performáticas e APIs resilientes.
 - **Arquitetura e Segurança:** Foco em integridade de dados e soluções escaláveis em nuvem.
 
----
-
-### 📊 Atividade no GitHub
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-ferreira-tech&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
