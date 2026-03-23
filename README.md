@@ -86,6 +86,14 @@ Desenvolvedor Full Stack focado na construção de sistemas **robustos e escalá
 
 ---
 
+### 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bruno-ferreira-tech/bruno-ferreira-tech/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
 ### 📫 Como me encontrar
 
 <div align="center">
