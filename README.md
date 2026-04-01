@@ -52,8 +52,8 @@ Desenvolvedor Full Stack focado na construção de sistemas **robustos e escalá
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bruno-ferreira-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5(https://github-readme-stats-eosin-gamma-81.vercel.app/api?username=bruno-ferreira-tech&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999%22)" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ferreira-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0077B5" />
+  <img height="170em" src="https://github-readme-stats-eosin-gamma-81.vercel.app/api?username=bruno-ferreira-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5" />
+  <img height="170em" src="https://github-readme-stats-eosin-gamma-81.vercel.app/api/top-langs/?username=bruno-ferreira-tech&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0077B5" />
 </div>
 
 <div align="center">
@@ -62,16 +62,16 @@ Desenvolvedor Full Stack focado na construção de sistemas **robustos e escalá
 
 ---
 
-### 🏆 Conquistas
+### 🏆 Resumo do Perfil
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruno-ferreira-tech&theme=github_dark" />
+</div>
 
-![Commits](https://img.shields.io/badge/Total%20Commits-168-0077B5?style=for-the-badge&logo=git&logoColor=white)
-![Contribuições](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-290-239120?style=for-the-badge&logo=github&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-68%25%20do%20c%C3%B3digo-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-26%25%20do%20c%C3%B3digo-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PRs](https://img.shields.io/badge/Pull%20Requests-8-E0234E?style=for-the-badge&logo=github&logoColor=white)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bruno-ferreira-tech&theme=github_dark" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bruno-ferreira-tech&theme=github_dark&utcOffset=-3" />
 </div>
 
 ---
@@ -105,3 +105,5 @@ Desenvolvedor Full Stack focado na construção de sistemas **robustos e escalá
 </div>
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077B5,100:0d1117&height=80&section=footer&animation=fadeIn" />
+</div>
